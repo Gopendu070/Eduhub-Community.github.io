@@ -1,0 +1,8 @@
+Flutter is an open source framework to create high quality, high performance mobile applications across mobile operating systems - Android and iOS.
+It provides a simple, powerful, efficient and easy to understand SDK to write mobile application in Google’s own language, Dart.
+
+  Why flutter is to be chosen in 2022?
+1. No Cross-Platform Dependency: iOS and Android apps work very differently internally, so the developers had to redesign and reconfigure the same content for individual platforms.
+2. Time Constraints: Making a professional app, from coding to designing requires a lot of time. Companies usually set a time limit in which the app should be ready to be launched into the market. Those developers who had to work in both these platforms often found had time limit issues, and the efficiency and quality of work degraded.
+3. More Employees: This problem was encountered by companies. Since they have to develop an app for both the platforms, a greater number of app developers knowing about the individual platform had to be hired.
+4. Development Cost: Since the app has to be made individually for both the platforms, the cost of development will increase, as more developers will be required.
